@@ -1,0 +1,6 @@
+1.Press an element using JavaScript code (from inside your
+Java code)
+HINT: read on JavaScriptExecutor interface.
+
+2. Is running tests on multiple browsers in parallel is
+possible? Which tool can be used for it?
